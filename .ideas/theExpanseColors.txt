@@ -1,0 +1,11 @@
+--red-color  #EA5125 or HSL(13, 82%, 53%)  or  RGB(234, 81, 37)
+--tan-color  #7D8C82 or HSL(140, 6%, 52%)  or  RGB(125, 140, 130)
+--baby-blue (medium light cyan)  #7AA9BB  or HSL(197, 32%, 61%)   or  RGB(122, 169, 187)
+--slate-blue  (dark cyan)   #184152  or HSL(198, 55%, 21%)  or  RGB(24, 65, 82)
+--navy-blue  (dark cyan blue)   #0C2837  or HSL(201, 64%, 13%)  or  RGB(12, 40, 55)
+
+major background is linear gradient from dark on bottom to lighter on top
+bottom is (--slate-blue)  #184152
+top is (--baby-blue)  #7AA9BB
+
+Font color (--navy-blue)
